@@ -1,0 +1,3 @@
+This repository consists of script files which perform image processing techniques on Prokudin-Gorskii photo collection to align the R,G,B channel images and produce a color image.
+To achieve this task, Normalized cross correlation and sum of square difference techniques are employed in matlab. The images folder consists of raw channel images of Prokudin-Gorskii photo collection and the aligned images can be found in output folder.
+
